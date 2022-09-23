@@ -2,7 +2,7 @@
 
 A World of Warcraft add-on that changes the default font for floating combat text.
 
-All settings are hard-coded. To change the included font, replace `Media\Font.ttf` to your preferred font.
+All settings are hard-coded. To change the included font, replace the font file located in `Media\Font.ttf` to your preferred font.
 
 ## Installation
 
