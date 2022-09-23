@@ -4,6 +4,10 @@ A World of Warcraft add-on that changes the default font for floating combat tex
 
 All settings are hard-coded. To change the included font, replace the font file located in `Media\Font.ttf` to your preferred font.
 
+## Screenshot
+
+![](https://raw.githubusercontent.com/haothitran/KlazCombatText/master/Media/Screenshot.jpg)
+
 ## Installation
 
 1. Backup `World of Warcraft\_retail_\Interface` and `World of Warcraft\_retail_\WTF` folders. Just in case.
