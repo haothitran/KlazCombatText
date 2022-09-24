@@ -1,17 +1,17 @@
 ## Interface: 100002
 ## Title: Klaz|cff1994ffCombatText|r
 ## Author: Klaz
+## Notes-zhCN:
+## Notes-zhTW:
+## Notes-frFR:
 ## Notes-deDE:
 ## Notes-enGB: Big crits, big money, big fun. Changes the default font for floating combat text.
 ## Notes-enUS: Big crits, big money, big fun. Changes the default font for floating combat text.
-## Notes-esES:
-## Notes-esMX:
-## Notes-frFR:
 ## Notes-itIT:
 ## Notes-koKR:
 ## Notes-ptBR:
 ## Notes-ruRU:
-## Notes-zhCN:
-## Notes-zhTW:
+## Notes-esES:
+## Notes-esMX:
 
 CombatText.lua
