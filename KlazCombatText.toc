@@ -1,4 +1,4 @@
-## Interface: 90200
+## Interface: 100002
 ## Title: Klaz|cff1994ffCombatText|r
 ## Author: Klaz
 ## Notes: Big crits, big money, big fun. Changes the default font for floating combat text.
