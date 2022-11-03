@@ -5,8 +5,8 @@
 ## Notes-zhTW:
 ## Notes-frFR:
 ## Notes-deDE:
-## Notes-enGB: Big crits, big money, big fun. Changes the default font for floating combat text.
-## Notes-enUS: Big crits, big money, big fun. Changes the default font for floating combat text.
+## Notes-enGB: Big crits, big money, big fun. Changes the font for floating combat text.
+## Notes-enUS: Big crits, big money, big fun. Changes the font for floating combat text.
 ## Notes-itIT:
 ## Notes-koKR:
 ## Notes-ptBR:
